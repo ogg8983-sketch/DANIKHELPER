@@ -32,3 +32,12 @@ HELPER WINDOWS
 • Open-source enthusiasts
 
 #WindowsTools #SystemUtility #PythonProject #OpenSource #GitHub #Programming #Tech #Software #DevTools #Windows11 (3 часа уже утра а я в )
+
+Откройте DanikHelper.exe
+Используйте все функции программы!
+Ничего устанавливать не нужно.
+
+
+Open DanikHelper.exe
+Use all program features!
+No installation required.
